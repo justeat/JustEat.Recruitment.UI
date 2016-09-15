@@ -12,8 +12,8 @@ Please:
 
 ## Important considerations
 
-* The page should be usable in as many browsers as possible.  This doesn’t mean that it needs to look exactly the same, but it shouldn’t look completely broken either.  For example, if you choose to use Flexbox, we expect to see some sort of fallback provided (using modernizr to help with this is fine).
 * We don’t expect candidates to finish all of the styling on the page (although you’ll get mega kudos if you do!).  Focus on making the parts that you do work on a good standard that reflects your ability.  We’d rather see half the page styled well, than a shell of a page.
+* Your test should be usable in as many browsers as possible.  This doesn’t mean that it needs to look exactly the same, but it shouldn’t look completely broken either.  For example, if you choose to use Flexbox, we expect to see some sort of fallback provided (using modernizr to help with this is fine).
 * Think about how the CSS you write can be used across other pages on the site.  We build our CSS in a component-driven way so show us that you can do that too.
 * We understand you’re developing from a PNG and not a Sketch or Photoshop file – don’t get too hung up on exact colours of text or margins between elements.
 * Don’t overcomplicate the JavaScript part of the task.  We just want to see that you know how to write basic JS.
