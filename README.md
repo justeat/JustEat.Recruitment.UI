@@ -21,12 +21,13 @@ Please:
 * We advise spending at least an hour on the test – if you want to spend more or less time on it, that’s completely up to you.
 
 
-# Questions
+# Technical Questions
 
 * What approaches did you use when completing the test?  Do you use any CSS methodologies or techniques to help this approach?
 * If you had more time to spend on the test, what would you like to add to your solution?
 * What browsers should your test work in?  What will happen if we test it in older browsers like IE10?
 * What's your favourite programming language? Why?
+* Please describe yourself using JSON.
 
 In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. Please send an email to tech.recruitment@just-eat.com with your **valid Google email address** so we can give you the correct upload permissions.
 
