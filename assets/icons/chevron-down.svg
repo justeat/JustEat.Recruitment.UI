@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon / chevron-down</title>
+    <defs>
+        <path d="M14.7075,6.7075 L14.7075,6.7075 C14.8957879,6.89513521 15.0016219,7.15001519 15.0016219,7.41583333 C15.0016219,7.68165148 14.8957879,7.93653146 14.7075,8.12416667 L10.8333333,12 L14.7108333,15.8775 C14.8991212,16.0651352 15.0049552,16.3200152 15.0049552,16.5858333 C15.0049552,16.8516515 14.8991212,17.1065315 14.7108333,17.2941667 L14.7108333,17.2941667 C14.5231981,17.4824545 14.2683181,17.5882886 14.0025,17.5882886 C13.7366819,17.5882886 13.4818019,17.4824545 13.2941667,17.2941667 L8.71083333,12.7108333 C8.52254548,12.5231981 8.41671143,12.2683181 8.41671143,12.0025 C8.41671143,11.7366819 8.52254548,11.4818019 8.71083333,11.2941667 L13.2941667,6.71083333 C13.6836698,6.31997315 14.3161576,6.31848144 14.7075,6.7075 Z" id="path-1"></path>
+    </defs>
+    <g id="SERP-Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1280---Desktop---Orange-JE-Basis---SERP-Landing---Orange-Phase-3" transform="translate(-208.000000, -580.000000)">
+            <g id="Group-10" transform="translate(30.000000, 84.000000)">
+                <g id="Group-7" transform="translate(0.000000, 96.000000)">
+                    <g id="Group-4" transform="translate(95.000000, 392.000000)">
+                        <g id="icon-/-chevron-down" transform="translate(77.000000, 0.000000)">
+                            <polygon id="bounding-box" opacity="0" points="0 24 24 24 24 0 0 0"></polygon>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Color" fill="#125FCA" fill-rule="nonzero" transform="translate(11.710833, 12.002499) scale(-1, 1) rotate(-90.000000) translate(-11.710833, -12.002499) " xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
