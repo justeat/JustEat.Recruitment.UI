@@ -4,7 +4,7 @@ UI Tech Test
 ### Task requirements
 
 Please:
-* Create an HTML page to represent the search results design in the `jet-search.png` image. Use semantic, accessible and valid mark-up.
+* Create an HTML page to represent the search results design in the `jet-serp.png` image. Use semantic, accessible and valid mark-up.
 * We have provided the sketch version of this design for those of you who have this software (you can get a [30-day free trial](https://www.sketch.com/try/) on Mac).  We have also tried to automatically convert this file to PSD for those who have access to Photoshop.
 * Style the page so that it looks like the design.  This can be done in CSS, SCSS, LESS – whatever you prefer.
 * Write a small piece of JavaScript so that the 'Search for a restaurant' search box shows and hides the restaurants displayed on the page.
